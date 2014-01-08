@@ -1,0 +1,187 @@
+TForgeModule
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528229270000000000000176
+t1384261927
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005242CC4E00000000000003B5
+t1380109390
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005272930C00000000000001A0
+t1383240460
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005272930D0000000000059350
+t1383240461
+s365392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005272930F0000000000445870
+t1383240463
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052729311000000000088C680
+t1383240465
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005272931200000000001BA530
+t1383240466
+s1811760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005272931300000000001290B0
+t1383240467
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005272931300000000001081B0
+t1383240467
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527293190000000001DB9910
+t1383240473
+s31168784
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c0000000052CD27630000000000467254
+t1389176675
+s4616788
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c0000000052CD27630000000000000159
+t1389176675
+s345
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList
+c0000000052CD73FB0000000000000186
+t1389196283
+s390
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o
+t1389196284
+s57096
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o
+t1389196284
+s55352
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+t2
+s0
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m
+c0000000052CD6FE800000000000006B7
+t1389195240
+s1719
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m
+c0000000052CD2763000000000000020C
+t1389176675
+s524
+
+N/var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch
+t1389196284
+s5910712
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies63b7bb7bab7db841^45d7c57bab7db841^---0#1#1#--18"Check dependencies36"4877C105-5E76-4AC8-A63C-F4A8EDDBF682-
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410889084.342693
+e410889084.433584
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o
+x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLSessionManager.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLResponseSerialization.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLRequestSerialization.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFSecurityPolicy.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m186"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o file2_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6dfe577cab7db841^32016f7cab7db841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m0000000000000000^3461"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o file2_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -IAFNetworking -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/.. -include /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.d --serialize-diagnostics /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.dia -c /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_API.m -o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_API.o36"3BD12BC3-E270-4352-B3BE-7AF70CE4C2B2-
+b39EB5C94-A832-4BCF-9899-C3D644605333
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410889084.344071
+e410889084.421790
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o
+x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m206"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o file2_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b53587cab7db841^b8236c7cab7db841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m0000000000000000^3521"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o file2_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -IAFNetworking -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/.. -include /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.d --serialize-diagnostics /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.dia -c /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/file2_EventListener.m -o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/file2_EventListener.o36"44F669C1-F0EB-403D-84B8-972CCD216991-
+b39EB5C94-A832-4BCF-9899-C3D644605333
+
+CLibtool /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+s410889084.435042
+e410889084.445150
+r1
+xLibtool
+x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libForgeModule.a normal i38666"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386b3996f7cab7db841^2bf8717cab7db841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1134"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -filelist /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList -ObjC -framework MobileCoreServices -framework Security -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a36"00F91EF5-2D21-43B7-AACE-AC5E0C9351E8-
+b39EB5C94-A832-4BCF-9899-C3D644605333
+
+CProcessPCH /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410889083.776032
+e410889084.341658
+r1
+xProcessPCH
+x/var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch313"ProcessPCH /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7bf8c67bab7db841^78455c7cab7db841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^3451"ProcessPCH /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -IAFNetworking -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule -F/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.d -c /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/lq/8ntc9gd54xn9bq4gt8qbs4vc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-hirducesjodbdgdebjtgypzjpsww/ForgeModule-Prefix.pch.pch36"774F127C-F987-41EA-B5E6-F8FCCEB3C82D-
+b39EB5C94-A832-4BCF-9899-C3D644605333
+
