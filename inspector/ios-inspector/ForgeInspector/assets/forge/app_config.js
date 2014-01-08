@@ -1,0 +1,1 @@
+window.forge = {}; window.forge.config = {"modules": {"file2": {"version": "0.1", "config": {}}, "inspector": {"version": "1.0"}}}; window.forge.module_mapping = {"file2": "file2", "inspector": "inspector"};
