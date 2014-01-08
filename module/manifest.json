@@ -1,5 +1,5 @@
 {
-	"description": "My module template",
+	"description": "Replacement file module using AFNetworking",
 	"min_platform_version": "v2.1.0",
 	"namespace": "file2",
 	"platform_version": "v2.1.0",
