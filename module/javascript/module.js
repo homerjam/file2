@@ -1,8 +1,14 @@
 // Expose the native API to javascript
 forge.file2 = {
-    showAlert: function (text, success, error) {
-        forge.internal.call('file2.showAlert', {text: text}, success, error);
-    }
+
+	showAlert: function (text, success, error) {
+		forge.internal.call('file2.showAlert', {text: text}, success, error);
+	},
+
+	saveURL: function (url, success, error) {
+		forge.internal.call('file2.saveURL', {url: url}, success, error);
+	}
+
 };
 
 // Register for our native event
