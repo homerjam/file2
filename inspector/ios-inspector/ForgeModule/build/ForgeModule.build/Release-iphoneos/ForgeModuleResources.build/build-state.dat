@@ -2,28 +2,6 @@ TForgeModuleResources
 v6
 r1
 cCheck dependencies
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFURLSessionManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFHTTPSessionManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFSecurityPolicy.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFNetworkReachabilityManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFURLConnectionOperation.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFURLRequestSerialization.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFURLResponseSerialization.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFURLSessionManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFHTTPSessionManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFSecurityPolicy.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFURLRequestSerialization.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFURLResponseSerialization.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/file2 normal armv7
-cLd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/file2 normal armv7s
-cCreateUniversalBinary /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7s
-cGenerateDSYMFile /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2
 cTouch /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
@@ -81,45 +59,250 @@ c00000000527292EB00000000025A5AC0
 t1383240427
 s39475904
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000527292FA0000000000387B30
+t1383240442
+s3701552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+c0000000052729302000000000001D2B0
+t1383240450
+s119472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+c000000005242CC45000000000054C820
+t1380109381
+s5556256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c000000005242CC460000000000028490
+t1380109382
+s165008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005272930200000000000472B0
+t1383240450
+s291504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052729302000000000003EB80
+t1383240450
+s256896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052729302000000000002AEE0
+t1383240450
+s175840
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005242CC4600000000000E2F20
+t1380109382
+s929568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005272930200000000000A1FC0
+t1383240450
+s663488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c0000000052729302000000000001E8A0
+t1383240450
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052729302000000000000BF00
+t1383240450
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c00000000527293020000000000034100
+t1383240450
+s213248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c00000000527293020000000000022F30
+t1383240450
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c0000000052729302000000000001D1B0
+t1383240450
+s119216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000527293020000000000051110
+t1383240450
+s332048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005242CC460000000000017E90
+t1380109382
+s97936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c000000005272930200000000001BA370
+t1383240450
+s1811312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052729302000000000001EFF0
+t1383240450
+s126960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052729302000000000002FA40
+t1383240450
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052729302000000000008B3E0
+t1383240450
+s570336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005272930200000000000B5FC0
+t1383240450
+s745408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c00000000527293020000000000078620
+t1383240450
+s493088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000527293020000000000060810
+t1383240450
+s395280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005272930200000000000B6B40
+t1383240450
+s748352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527293020000000000039D00
+t1383240450
+s236800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052729302000000000003E940
+t1383240450
+s256320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052729302000000000002CF80
+t1383240450
+s184192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052729302000000000001EB50
+t1383240450
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052729302000000000001EDE0
+t1383240450
+s126432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c000000005242CC4800000000000213C0
+t1380109384
+s136128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005272930200000000000ADAC0
+t1383240450
+s711360
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000527293470000000000005004
+t1383240519
+s20484
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperation.h
+c000000005289A5C40000000000001192
+t1384752580
+s4498
+
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperation.m
 c000000005289A5C40000000000001C80
 t1384752580
 s7296
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperationManager.h
+c000000005289A5C40000000000004912
+t1384752580
+s18706
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperationManager.m
 c000000005289A5C4000000000000298C
 t1384752580
 s10636
 
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPSessionManager.h
+c000000005289A5C4000000000000392D
+t1384752580
+s14637
+
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPSessionManager.m
 c000000005289A5C40000000000002F2C
 t1384752580
 s12076
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFNetworkReachabilityManager.h
+c000000005289A5C40000000000001C91
+t1384752580
+s7313
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFNetworkReachabilityManager.m
 c000000005289A5C4000000000000210B
 t1384752580
 s8459
 
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFSecurityPolicy.h
+c000000005289A5C40000000000001024
+t1384752580
+s4132
+
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFSecurityPolicy.m
 c000000005289A5C400000000000021F1
 t1384752580
 s8689
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLConnectionOperation.h
+c000000005289A5C4000000000000481C
+t1384752580
+s18460
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLConnectionOperation.m
 c000000005289A5C4000000000000669C
 t1384752580
 s26268
 
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLRequestSerialization.h
+c000000005289A5C4000000000000411B
+t1384752580
+s16667
+
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLRequestSerialization.m
 c000000005289A5C4000000000000A53E
 t1384752580
 s42302
 
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLResponseSerialization.h
+c000000005289A5C40000000000002796
+t1384752580
+s10134
+
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLResponseSerialization.m
 c000000005289A5C40000000000005745
 t1384752580
 s22341
+
+N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLSessionManager.h
+c000000005289A5C4000000000000638E
+t1384752580
+s25486
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFURLSessionManager.m
 c000000005289A5C400000000000099CF
@@ -217,20 +400,20 @@ t1389196278
 s1874
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle
-t1389196283
-s102
+t1389199818
+s68
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM
-t2
-s0
+t1389198576
+s102
 
 N/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2
-t1389196283
+t1389199258
 s657192
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesaa618376ab7db841^d82ca776ab7db841^---0#1#1#--18"Check dependencies36"1DD80F14-08F6-470A-AF82-3D97320D3A27-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdfa8394ab97db841^1fbf474ab97db841^---0#1#1#--18"Check dependencies36"933565F9-8064-4299-8632-7BDD42AE39A0-
 
 CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s410889080.676036
@@ -563,25 +746,25 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compil
 bB40FEB95-6DE7-40E4-8518-A9A3154F59F3
 
 CCreateUniversalBinary /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7s
-s410889083.072012
-e410889083.085057
+s410892058.352714
+e410892058.396951
 r1
 xCreateUniversalBinary
 x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2
 xnormal
 xarmv7 armv7s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Create universal binary /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file284"CreateUniversalBinary build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7s28b6127bab7db841^8fc6157bab7db841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2003470b2dfffdf42^1617"CreateUniversalBinary build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7s    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/file2 /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/file2 -output /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file236"86D9BC18-74F0-4708-940D-F264E46A94B3-
-bB40FEB95-6DE7-40E4-8518-A9A3154F59F3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Create universal binary /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file284"CreateUniversalBinary build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7sbdab5a1ab77db841^2fa6651ab77db841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2003470b2dfffdf42^1617"CreateUniversalBinary build/Release-iphoneos/file2.bundle/file2 normal armv7\ armv7s    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/file2 /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7s/file2 -output /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file236"C9B490F3-9991-4973-A76D-00F27C6A604A-
+b1FDA5ABA-270D-479A-9669-B6518C1E19DF
 
 CGenerateDSYMFile /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2
-s410889083.085692
-e410889083.160396
+s410892058.398045
+e410892059.286833
 r1
 xGenerateDSYMFile
 x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM
 x/Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generate /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM99"GenerateDSYMFile build/Release-iphoneos/file2.bundle.dSYM build/Release-iphoneos/file2.bundle/file20a2e167bab7db841^0a10297bab7db841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM003470b2dfffdf42^1468"GenerateDSYMFile build/Release-iphoneos/file2.bundle.dSYM build/Release-iphoneos/file2.bundle/file2    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2 -o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM36"645191A6-BB76-4998-B2F5-B32296EC59B2-
-bB40FEB95-6DE7-40E4-8518-A9A3154F59F3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generate /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM99"GenerateDSYMFile build/Release-iphoneos/file2.bundle.dSYM build/Release-iphoneos/file2.bundle/file2ea3c661ab77db841^d26d491bb77db841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM/0000000000000000^1468"GenerateDSYMFile build/Release-iphoneos/file2.bundle.dSYM build/Release-iphoneos/file2.bundle/file2    cd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle/file2 -o /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/file2.bundle.dSYM36"DB82E750-F378-48B0-8672-08E802F4D0A4-
+b1FDA5ABA-270D-479A-9669-B6518C1E19DF
 
 CLd /Volumes/HDD/Users/homer/Documents/TriggerModules/file2/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build/Objects-normal/armv7/file2 normal armv7
 s410889082.887393
