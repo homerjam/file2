@@ -1,8 +1,8 @@
 {
-	"description": "Replacement file module using AFNetworking",
+	"description": "Extended file module using AFNetworking.\n\nThe AFNetworking library allows much larger files to be downloaded.\n\nCurrently only file2.saveURL method exists.\n\nNot compatible with request module.",
 	"min_platform_version": "v2.1.0",
 	"namespace": "file2",
 	"platform_version": "v2.1.0",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"changes": " "
 }
